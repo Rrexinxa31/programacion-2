@@ -1,0 +1,8 @@
+print("ingresar porfavor los siguientes datos")
+nomb=input("Nombre")
+apellido=input("Apellido")
+edad=int(input("edad"))
+direcc=input("direccion")
+tel=int(input("telefono"))
+gen=input("genero")
+print(nomb, apellido, edad, direcc, tel, gen)

@@ -1,0 +1,7 @@
+Especie,Edad,Tamaño,Peso,Altura,Fecha de Ingreso,Género,Tipo de Alimento,Horarios de Comida,Vacunas,Enfermedades
+León,5,Grande,190,1.2,2018-05-10,Macho,Carnívoro,"9:00 AM, 5:00 PM","Vacuna A, Vacuna B",Ninguna
+Elefante,8,Gigante,6000,3.0,2016-07-15,Hembra,Herbívoro,"8:00 AM, 4:00 PM",Vacuna C,Lesión en la pata
+Jirafa,4,Alta,800,4.5,2020-02-20,Macho,Herbívoro,"7:30 AM, 3:30 PM",Vacuna D,Ninguna
+Tigre,6,Grande,220,1.1,2017-11-05,Hembra,Carnívoro,"10:00 AM, 6:00 PM",Vacuna E,Enfermedad respiratoria
+Cebra,3,Mediana,300,1.4,2021-03-12,Macho,Herbívoro,"8:00 AM, 5:00 PM",Vacuna F,Ninguna
+Koala,2,Pequeño,15,0.6,2022-09-30,Hembra,Herbívoro,"9:30 AM, 4:30 PM",Vacuna G,Infección ocular

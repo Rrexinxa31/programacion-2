@@ -1,0 +1,15 @@
+print("Ingrese el valor de cada lado de un triangulo para hhalar perimetro y area")
+print("lado 1")
+a=float(input())
+print("lado 2")
+b=float(input())
+print("lado 3")
+c=float(input())
+print("ahora ingrese la base y la altura del triangulo")
+print("ingrese base")
+ba=float(input())
+print("ingrese altura")
+al=float(input())
+p=a+b+c
+ar=(ba*al)/2
+print("el perimetro es=",p," su area es=",ar)
